@@ -1,0 +1,16 @@
+PODS:
+  - expat (2.2.10)
+
+DEPENDENCIES:
+  - expat (= 2.2.10)
+
+SPEC REPOS:
+  "git@github.com:readdle/cocoa-pods-specs.git":
+    - expat
+
+SPEC CHECKSUMS:
+  expat: 4ecac79aeb526047ff4debd5ea7892347c272f14
+
+PODFILE CHECKSUM: 917596d6761abe04ddbbaebdfac9f841361d2596
+
+COCOAPODS: 1.10.0
